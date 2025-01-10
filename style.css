@@ -32,3 +32,52 @@ font-weight: 700;
     font-weight: 600;
  
 }
+.sign-in-btn:hover{
+    background-color: rgb(2, 74, 56);
+    color: white;
+}
+.container{
+    
+    width: 871px;
+    height: 20px;
+    margin: 0px 134px;
+    border-radius: 20px;
+    background: rgb(198, 228, 214);
+    padding: 201px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap:20px;
+}
+.heading{
+    height: 200px;
+    width: 300px;
+    margin-left: -300px;
+    text-align: center;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: justify;
+
+
+}
+.imgOfSritisoudho{
+    margin-right: -350px;
+}
+.btn2{
+    padding: 17px 34px 17px 34px;
+    margin-top: 15px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    color: white;
+    font-family: fira sans;
+}
+
+.banglades2{
+        color: rgba(14, 14, 14, 0.5);
+        font-family: Fira Sans;
+        font-size: 24px;
+        font-weight: 100;
+        opacity: 0.0;
+ }
